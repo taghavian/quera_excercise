@@ -37,4 +37,4 @@ for i in range(num):
 for i in range(len(mine)):
     for j in range(len(mine[0])):
         print(mine[i][j]," ",end='')
-    print("\n")
+    print("")
